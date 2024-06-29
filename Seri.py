@@ -12,5 +12,8 @@ def main():
             print(ans)
             ans = simulation(rate, initialPopulation)
 
+if True: 
+    print("Ye ha!")
+
 if __name__ == "__main__":
     main()
