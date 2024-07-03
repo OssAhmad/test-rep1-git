@@ -1,0 +1,48 @@
+commit 19a56d4aab830dc521affe06399198dea5fa966e
+Author: OssAhmad <rapworldfarsi@gmail.com>
+Date:   Sat Jun 29 20:38:35 2024 +0330
+
+    I think I am fianlly done commiting the entirety of this folder to a single master branch. I does nothing and is just a mess, but I succeeded.
+
+commit 1fefd97217168cd88b010a2e82a09783ef3e09d1
+Author: OssAhmad <rapworldfarsi@gmail.com>
+Date:   Sat Jun 29 20:33:11 2024 +0330
+
+    JUST LOSING MY SHIT HERE
+
+commit 4a2f8842970a006cb0337ae518ec300802fd1093
+Author: OssAhmad <rapworldfarsi@gmail.com>
+Date:   Sat Jun 29 20:22:34 2024 +0330
+
+    removed the last modification!
+
+commit ac897b0bc74a95012fe9b19df07d44c83a7ce531
+Author: OssAhmad <rapworldfarsi@gmail.com>
+Date:   Sat Jun 29 20:13:42 2024 +0330
+
+    Modified and added a simple conditional that always runs!
+
+commit b7df8efeab692197bff1f581f0f68903c2d23c6d
+Author: OssAhmad <rapworldfarsi@gmail.com>
+Date:   Sat Jun 29 10:08:45 2024 +0330
+
+    Initial commit
+    
+    Changes to be committed:
+            new file:   MIT60002/PS1/MIT6_0002F16_ProblemSet1.pdf
+            new file:   MIT60002/PS1/PS1.zip
+            new file:   MIT60002/PS1/ps1_cow_data.txt
+            new file:   MIT60002/PS1/ps1_cow_data_2.txt
+            new file:   MIT60002/PS1/ps1_partition.py
+            new file:   MIT60002/PS1/ps1a.py
+            new file:   MIT60002/PS1/ps1b.py
+            new file:   MIT60002/fibonachi.py
+            new file:   Seri.py
+            new file:   matplotlib/start.py
+    
+    Untracked files:
+            Harvardx;ProgrmmingforLawyer/
+            Mate-FontEnd/
+            Small Projects/
+            echoSpace.ps1
+            git/
